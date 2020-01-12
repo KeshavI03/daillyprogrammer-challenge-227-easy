@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Solver {
 	public static void main(String[] args) {
+		//Example Inputs
 		
 		System.out.println(solveSpiral(11,50));
 		
